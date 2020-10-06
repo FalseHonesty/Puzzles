@@ -1,0 +1,3 @@
+module Sneaky {
+    requires main;
+}
